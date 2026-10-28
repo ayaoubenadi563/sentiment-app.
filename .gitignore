@@ -30,3 +30,9 @@ Thumbs.db
 .pytest_cache/
 .coverage
 htmlcov/
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.env
+*.pyc
